@@ -1,6 +1,9 @@
 # StratoWeave
-## Intent-based network orchestration, built to close the loop.
-StratoWeave is a platform for robust network orchestration systems based on model-driven declarative transforms. Build automation that makes sense for your network with reactive closed loops and observability powered by streaming telemetry.
 
-### New to StratoWeave?
-Learn more about the project on [www.stratoweave.org](http://www.stratoweave.org)
+StratoWeave is an open-source platform for building intent-based network
+orchestration systems. It combines YANG models, layered declarative transforms,
+and streaming telemetry to turn service intent into device configuration and
+respond to changes in the network.
+
+Visit **[www.stratoweave.org](https://www.stratoweave.org/)** for more information,
+including tutorials, documentation, and community resources.
